@@ -12,4 +12,8 @@ let dobble3 = (a) => {
 
 let dobble4 = a => 2*a
 
-console.log(dobble(5))
+
+console.log(dobble(3)) 
+console.log(dobble2(3))
+console.log(dobble3(3))
+console.log(dobble4(3))
